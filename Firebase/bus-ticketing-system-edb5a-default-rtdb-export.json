@@ -1,0 +1,108 @@
+{
+  "1T9zqgWL7rD2tDc6JNRkblhtbVxiD1-tKLe4YBN74UqU" : {
+    "Sheet1" : {
+      "April 13, 2021 at 08:08PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 13, 2021 at 08:08PM"
+      },
+      "April 13, 2021 at 08:10PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 13, 2021 at 08:10PM"
+      },
+      "April 13, 2021 at 08:28PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 13, 2021 at 08:28PM"
+      },
+      "April 15, 2021 at 02:18PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 15, 2021 at 02:18PM"
+      },
+      "April 15, 2021 at 03:12PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 15, 2021 at 03:12PM"
+      },
+      "April 15, 2021 at 03:20PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 15, 2021 at 03:20PM"
+      },
+      "April 15, 2021 at 03:21PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 15, 2021 at 03:21PM"
+      },
+      "April 16, 2021 at 03:01PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "April 16, 2021 at 03:01PM"
+      },
+      "May 12, 2021 at 05:40PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "May 12, 2021 at 05:40PM"
+      },
+      "May 12, 2021 at 05:45PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 05:45PM"
+      },
+      "May 12, 2021 at 05:56PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 05:56PM"
+      },
+      "May 12, 2021 at 06:12PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 06:12PM"
+      },
+      "May 12, 2021 at 06:14PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 06:14PM"
+      },
+      "May 12, 2021 at 06:15PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 06:15PM"
+      },
+      "May 12, 2021 at 06:16PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 06:16PM"
+      },
+      "May 12, 2021 at 06:17PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Chaitanya",
+        "Unique ID" : "06:5F:16:18",
+        "id" : "May 12, 2021 at 06:17PM"
+      },
+      "May 12, 2021 at 06:18PM" : {
+        "Event" : "Customer_Entered",
+        "Name of Customer" : "Vinayak",
+        "Unique ID" : "29:08:51:B2",
+        "id" : "May 12, 2021 at 06:18PM"
+      }
+    }
+  }
+}
